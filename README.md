@@ -14,11 +14,4 @@ This solution not only addresses the immediate challenge of food accessibility b
 You can view the UI design and wireframes on Figma by following this [link](https://www.figma.com/design/0uFsxxqIPPVvEW2oNtTozv/Food-Order-UI-%26-Wireframes?node-id=0-1&m=dev&t=51nSX2SS2KHXRfzL-1).
 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
